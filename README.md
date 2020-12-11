@@ -57,6 +57,14 @@ For example, if your differential equation is
 dy/dt = ty^2,
 you would input dy/dt = ``` t*y**2 ``` into the program input. 
 
+##### Testing for those who do not understand approximating differential equations
+
+If you want to test the program by plotting f(x) = e^x this can be easily done.
+In the program, enter the following inputs in the input boxes.
+Step size = 0.1 -> dy/dx = y -> y0 = 1 -> From t = 0 -> To t = 5.
+
+This program is meant for differential equations that cannot be solved analytically but approximating dy/dx = y shows the capabilites of the software by producing a graph very similar to f(x) = e^x.
+
 ---
 
 
