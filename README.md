@@ -54,8 +54,8 @@ you would input dy/dt = ``` 2*np.sin(t) ``` into the program.
 
 When using powers, it is denoted as '**'.
 For example, if your differential equation is
-dy/dt = ty^2
-you would input dy/dt = ``` t*y**2 ``` into the program. 
+dy/dt = ty^2,
+you would input dy/dt = ``` t*y**2 ``` into the program input. 
 
 ---
 
