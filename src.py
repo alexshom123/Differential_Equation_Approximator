@@ -1,4 +1,4 @@
-#credits
+#credits and version
 __author__ = "Alex Shomali"
 __version__= "1.2"
 
