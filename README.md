@@ -9,6 +9,7 @@
 - [Description](#description)
 - [Dependencies](#Dependencies)
 - [How To Use](#how-to-use)
+- [Testing for those who do not understand approximating differential equations](#Testing)
 - [Author Info](#author-info)
 
 ---
@@ -17,7 +18,9 @@
 
 This Program is intended to approximate first order ordinary differential equations using a select range of numerical methods when analytical methods will not suffice. It is able to approximate using the Euler method, Heun method and Runge-Kutta method. It is able to plot each approximate solution and also save the y-axis values, along with their corresponding t-axis counterparts. 
 
-#### Dependencies
+---
+
+## Dependencies
 
 - Tkinter
 - Numpy
@@ -57,7 +60,9 @@ For example, if your differential equation is
 dy/dt = ty^2,
 you would input dy/dt = ``` t*y**2 ``` into the program input. 
 
-##### Testing for those who do not understand approximating differential equations
+---
+
+## Testing 
 
 If you want to test the program by plotting f(x) = e^x this can be easily done.
 In the program, enter the following inputs in the input boxes.
